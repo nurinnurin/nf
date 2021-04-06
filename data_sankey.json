@@ -1,17 +1,12 @@
 {
 "nodes":[
 {"node":0,"name":"Peringkat"},
-{"node":1,"name":"Mod Pengajian"},
-{"node":2,"name":"Jenis Pengajian"},
-{"node":3,"name":"Kaedah Pelaksanaan"},
-{"node":4,"name":"Bidang"}
+{"node":1,"name":"Jenis Pengajian"},
+{"node":2,"name":"Bidang"},
+{"node":3,"name":"Bilangan Sem"},
+{"node":4,"name":"GPA"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
-{"source":1,"target":2,"value":2},
-{"source":1,"target":3,"value":2},
-{"source":0,"target":4,"value":2},
-{"source":2,"target":3,"value":2},
-{"source":2,"target":4,"value":2},
-{"source":3,"target":4,"value":4}
+{"source":0,"target":4,"value":2}
 ]}
