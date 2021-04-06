@@ -5,7 +5,7 @@
 {"node":2,"name":"PT"},
 {"node":3,"name":"FT"},
 {"node":4,"name":"<=2.90"},
-{"node":6,"name":"3.50-3.90"}
+{"node":5,"name":"3.50-3.90"}
 ],
   
 "links":[
@@ -18,7 +18,7 @@
 {"source":2,"target":4,"value":3},
 {"source":3,"target":4,"value":3},
   
-{"source":2,"target":6,"value":43},
-{"source":3,"target":6,"value":49}
+{"source":2,"target":5,"value":43},
+{"source":3,"target":5,"value":49}
   
 ]}
