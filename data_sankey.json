@@ -2,12 +2,13 @@
 "nodes":[
 {"node":0,"name":"Master"},
 {"node":1,"name":"PhD"},
-{"node":2,"name":"node2"},
-{"node":3,"name":"node3"},
-{"node":4,"name":"node4"}
+{"node":2,"name":"PT"},
+{"node":3,"name":"FT"},
+{"node":4,"name":"GPA"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
+{"source":0,"target":3,"value":2},
 {"source":1,"target":2,"value":2},
 {"source":1,"target":3,"value":2},
 {"source":2,"target":3,"value":2},
