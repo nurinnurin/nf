@@ -1,17 +1,25 @@
 {
 "nodes":[
-{"node":0,"name":"Peringkat"},
-{"node":1,"name":"Jenis Pengajian"},
-{"node":2,"name":"Bidang"},
-{"node":3,"name":"Bilangan Sem"},
-{"node":4,"name":"GPA"}
+{"node":0,"name":"Master"},
+{"node":1,"name":"PhD"},
+{"node":2,"name":"Separuh Masa"},
+{"node":3,"name":"Sepenuh Masa"},
+{"node":4,"name":"<= 2.90"},
+{"node":5,"name":"3.00-3.40"},
+{"node":6,"name":"3.50-3.90"},
+{"node":7,"name":"4.00"}
 ],
 "links":[
-{"source":0,"target":2,"value":2},
-{"source":1,"target":2,"value":2},
-{"source":1,"target":3,"value":2},
-{"source":0,"target":4,"value":2},
-{"source":2,"target":3,"value":2},
-{"source":2,"target":4,"value":2},
-{"source":3,"target":4,"value":4}
+{"source":0,"target":2,"value":389},
+{"source":0,"target":3,"value":763}, 
+{"source":1,"target":2,"value":1},
+{"source":1,"target":3,"value":121},
+{"source":2,"target":4,"value":12},
+{"source":2,"target":5,"value":85},
+{"source":2,"target":6,"value":169},
+{"source":2,"target":7,"value":124},
+{"source":3,"target":4,"value":27},
+{"source":3,"target":5,"value":99},
+{"source":3,"target":6,"value":429},
+{"source":3,"target":7,"value":329}
 ]}
