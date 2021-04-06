@@ -4,10 +4,7 @@
 {"node":1,"name":"MOD_PENGAJIAN"},
 {"node":2,"name":"JENIS_PENGAJIAN"},
 {"node":3,"name":"KAEDAH_PERLAKSANAAN"},
-{"node":4,"name":"BIDANG"},
-{"node":5,"name":"JURUSAN"},
-{"node":6,"name":"KETERANGAN"},
-{"node":7,"name":"TEMPOH_PENGAJIAN"}
+{"node":4,"name":"BIDANG"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
