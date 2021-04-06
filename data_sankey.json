@@ -1,10 +1,10 @@
 {
 "nodes":[
-{"node":0,"name":"PERINGKAT"},
-{"node":1,"name":"MOD_PENGAJIAN"},
-{"node":2,"name":"JENIS_PENGAJIAN"},
-{"node":3,"name":"KAEDAH_PERLAKSANAAN"},
-{"node":4,"name":"BIDANG"}
+{"node":0,"name":"Peringkat"},
+{"node":1,"name":"Mod Pengajian"},
+{"node":2,"name":"Jenis Pengajian"},
+{"node":3,"name":"Kaedah Pelaksanaan"},
+{"node":4,"name":"Bidang"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
