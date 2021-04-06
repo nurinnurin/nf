@@ -4,9 +4,8 @@
 {"node":1,"name":"PhD"},
 {"node":2,"name":"PT"},
 {"node":3,"name":"FT"},
-{"node":4,"name":"<=2.90"},
-{"node":5,"name":"3.00-3.40"},
-{"node":6,"name":"3.50-3.90"}
+{"node":4,"name":"0.00-3.40"},
+{"node":5,"name":"3.50-4.00"}
 ],
   
 "links":[
@@ -16,9 +15,9 @@
 {"source":1,"target":2,"value":1},
 {"source":1,"target":3,"value":99},
   
-{"source":2,"target":4,"value":3},
-{"source":3,"target":4,"value":3},
+{"source":2,"target":4,"value":25},
+{"source":3,"target":4,"value":14},
   
-{"source":2,"target":5,"value":43},
-{"source":3,"target":5,"value":49}
+{"source":2,"target":5,"value":75},
+{"source":3,"target":5,"value":86}
 ]}
